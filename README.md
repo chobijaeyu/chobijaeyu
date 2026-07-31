@@ -54,7 +54,7 @@ yu · chobijaeyu · INFP · γ Mic
 
 <p align="center">
   <a href="https://github.com/chobijaeyu/SayIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" alt="SayIt" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" alt="SayIt" />
   </a>
 </p>
 
@@ -63,8 +63,8 @@ yu · chobijaeyu · INFP · γ Mic
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chobijaeyu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chobijaeyu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="top langs" />
 </p>
 
 ---
