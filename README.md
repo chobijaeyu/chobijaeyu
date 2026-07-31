@@ -35,7 +35,7 @@ stack/
 ├── gcp/         Terraform · Cloud Run · Cloud SQL · Cloud Armor
 ├── data/        MySQL · PostgreSQL · Redis · pgvector
 ├── ops/         Docker · GH Actions · Cloud Build · monitoring
-└── focus/       AI platforms · voice input · developer tools
+└── focus/       AI platforms · clean boundaries · boring reliability
 ```
 
 <p align="left">
@@ -61,9 +61,9 @@ $ journalctl -u work --since "recent" --no-pager
         Terraform modules · Cloud Run · Cloud SQL · WAF / LB
         observability + CI/CD for multi-env shipping
 
-[side]  SayIt — voice input + AI polish (open-source Typeless alt)
-        https://github.com/chobijaeyu/SayIt
-        https://sayitapp.site
+[oss]   AWSResourceHibernator
+        Lambda that parks STG EC2 / ECS / RDS off-hours
+        https://github.com/bstu-j-yang/AWSResourceHibernator
 ```
 
 ```bash
@@ -72,20 +72,16 @@ $ ps aux | grep now
 
 ```text
 PID   CMD
-1337  ./SayIt --mode=voice+ai
 42    rails s / go run ./api     # product backends
 7     cdk deploy / terraform apply
 3     watch monitoring --ses --batch --cost
 ```
 
 ```bash
-$ gh repo view chobijaeyu/SayIt --web
+$ gh repo view bstu-j-yang/AWSResourceHibernator --web
 ```
 
 <p align="left">
-  <a href="https://github.com/chobijaeyu/SayIt">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
-  </a>
   <a href="https://github.com/bstu-j-yang/AWSResourceHibernator">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
   </a>
