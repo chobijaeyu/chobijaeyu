@@ -5,7 +5,6 @@
 ```bash
 # -----------------------------------------------------------------------------
 #  session: github.com/chobijaeyu
-#  work:    Bravestudio · full-stack / platform
 #  shell:   zsh · mode: engineer
 # -----------------------------------------------------------------------------
 
@@ -35,7 +34,7 @@ stack/
 ├── gcp/         Terraform · Cloud Run · Cloud SQL · Cloud Armor
 ├── data/        MySQL · PostgreSQL · Redis · pgvector
 ├── ops/         Docker · GH Actions · Cloud Build · monitoring
-└── focus/       AI platforms · clean boundaries · boring reliability
+└── focus/       AI apps · desktop tooling · clean boundaries
 ```
 
 <p align="left">
@@ -60,10 +59,22 @@ $ journalctl -u work --since "recent" --no-pager
 [work]  Cloud platform (GCP)
         Terraform modules · Cloud Run · Cloud SQL · WAF / LB
         observability + CI/CD for multi-env shipping
+```
 
-[oss]   AWSResourceHibernator
-        Lambda that parks STG EC2 / ECS / RDS off-hours
-        https://github.com/bstu-j-yang/AWSResourceHibernator
+```bash
+$ ls ~/projects/
+```
+
+```text
+SayIt/                    # fork + deep fork work
+  voice input + AI polish (open-source Typeless alt)
+  our work: macOS adaptation and substantial product changes
+  https://github.com/chobijaeyu/SayIt
+  https://sayitapp.site
+
+AWSResourceHibernator/    # own
+  Lambda that parks STG EC2 / ECS / RDS off-hours
+  https://github.com/bstu-j-yang/AWSResourceHibernator
 ```
 
 ```bash
@@ -72,16 +83,20 @@ $ ps aux | grep now
 
 ```text
 PID   CMD
-42    rails s / go run ./api     # product backends
+1337  ./SayIt --platform=macos     # voice + AI, our fork work
+42    rails s / go run ./api       # product backends
 7     cdk deploy / terraform apply
 3     watch monitoring --ses --batch --cost
 ```
 
 ```bash
-$ gh repo view bstu-j-yang/AWSResourceHibernator --web
+$ gh repo view chobijaeyu/SayIt --web
 ```
 
 <p align="left">
+  <a href="https://github.com/chobijaeyu/SayIt">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
+  </a>
   <a href="https://github.com/bstu-j-yang/AWSResourceHibernator">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
   </a>
@@ -102,7 +117,7 @@ $ cat ~/motd
 
 ```text
 open to interesting engineering conversations.
-best ping topics: Go, Rails, AWS/GCP infra, AI product glue.
+best ping topics: Go, Rails, AWS/GCP infra, AI + desktop tooling.
 
 exit 0
 ```
