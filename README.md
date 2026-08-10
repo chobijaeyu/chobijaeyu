@@ -103,10 +103,10 @@ $ gh repo view chobijaeyu/SayIt --web
 
 <p align="left">
   <a href="https://github.com/chobijaeyu/SayIt">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
   </a>
   <a href="https://github.com/bstu-j-yang/AWSResourceHibernator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
   </a>
 </p>
 
@@ -115,8 +115,8 @@ $ neofetch --stats
 ```
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chobijaeyu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="github stats" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chobijaeyu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="github stats" />
+  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="top langs" />
 </p>
 
 ```bash
