@@ -82,6 +82,17 @@ SayIt/                    # fork of crosswk/SayIt · deep macOS work
 AWSResourceHibernator/    # own
   Lambda that parks STG EC2 / ECS / RDS off-hours
   https://github.com/bstu-j-yang/AWSResourceHibernator
+
+QuickTOTP/                # own · Raycast extension
+  TOTP codes for local / stg / prod in one list
+  paste or copy the live code, otpauth:// URI import
+  secrets stay in Raycast's local encrypted storage
+  https://github.com/chobijaeyu/QuickTOTP
+
+teslapse/                 # own · ffmpeg + bash
+  Tesla Sentry / Dashcam events → frames → timelapse
+  single camera or multi-camera layouts, fully local
+  https://github.com/chobijaeyu/teslapse
 ```
 
 ```bash
@@ -94,6 +105,12 @@ $ gh repo view chobijaeyu/SayIt --web
   </a>
   <a href="https://github.com/bstu-j-yang/AWSResourceHibernator">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
+  </a>
+  <a href="https://github.com/chobijaeyu/QuickTOTP">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=chobijaeyu&repo=QuickTOTP&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="QuickTOTP" />
+  </a>
+  <a href="https://github.com/chobijaeyu/teslapse">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=chobijaeyu&repo=teslapse&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="teslapse" />
   </a>
 </p>
 
