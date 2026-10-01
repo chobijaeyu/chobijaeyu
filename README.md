@@ -12,14 +12,13 @@ $ cat ~/README.md
 ```
 
 ```text
-yu · full-stack engineer
-SPA から API、バッチ、クラウド基盤まで一気通贯
+yu · full-stack engineer · zh / ja / en
 
-日常は Rails / Go 后端 + Angular/React 前端，
-顺手写 AWS CDK / Terraform，把监控和成本也管住。
-业余用 AI 做些小工具：桌面端、脚本、能自己天天用的东西。
+SPA から API、バッチ、クラウド基盤まで一気通貫で作るエンジニア。
+本業は Rails / Go のバックエンドと Angular / React のフロントエンド。
+AWS CDK / Terraform でインフラを書き、監視とコストまで面倒を見る。
+业余用 AI 做小工具：桌面端、脚本，先做到自己每天都在用。
 
-喜欢把复杂问题拆成清晰边界，再用最朴素能跑的方案落地。
 複雑さは敵。境界が綺麗なら実装は勝手に簡単になる。
 ```
 
@@ -86,27 +85,15 @@ AWSResourceHibernator/    # own
 ```
 
 ```bash
-$ ps aux | grep now
-```
-
-```text
-PID   CMD
-1337  ./SayIt --platform=macos     # fork: hotkeys · ASR · 中翻日 · learning
-42    rails s / go run ./api       # product backends
-7     cdk deploy / terraform apply
-3     watch monitoring --ses --batch --cost
-```
-
-```bash
 $ gh repo view chobijaeyu/SayIt --web
 ```
 
 <p align="left">
   <a href="https://github.com/chobijaeyu/SayIt">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=chobijaeyu&repo=SayIt&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="SayIt" />
   </a>
   <a href="https://github.com/bstu-j-yang/AWSResourceHibernator">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=bstu-j-yang&repo=AWSResourceHibernator&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="AWSResourceHibernator" />
   </a>
 </p>
 
@@ -115,8 +102,8 @@ $ neofetch --stats
 ```
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=chobijaeyu&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="top langs" />
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=chobijaeyu&hide=stars&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="github stats" />
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=chobijaeyu&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="top langs" />
 </p>
 
 ```bash
